@@ -1,3 +1,3 @@
-# git_test
-My first GitHub repo!
-Hello Odin!
+# FitCircle
+FitCircle - A simple yet intuitive workout tracking interface
+Created using Replit
